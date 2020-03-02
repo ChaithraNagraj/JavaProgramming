@@ -8,8 +8,8 @@ public class Anagram {
 	public static void main(String[] args) {
 		PropertyConfigurator.configure("src//log4j.properties");
 		logger.info(" ");
-	        char str1[] = ("geeksforgeeks").toCharArray();
-	        char str2[] = ("forgeeksgeeks").toCharArray();
+	        char str1[] = ("stringtocheck").toCharArray();
+	        char str2[] = ("tocheckstring").toCharArray();
 	        if (Utility.areAnagram(str1, str2)) 
 	            logger.info("The two strings are" + " anagram of each other"); 
 	        else
