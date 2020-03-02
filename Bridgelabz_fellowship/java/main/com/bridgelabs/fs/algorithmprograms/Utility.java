@@ -223,7 +223,7 @@ public class Utility {
 	private final String REGEX_NAME = "<<name>>";
 	private final String REGEX_FULLNAME = "<<full name>> ";
 	private final String REGEX_MOBILE_NO = "xxxxxxxxxx";
-	private final String REGEX_DATE = "12/06/2016";
+	private final String REGEX_DATE = "12/01/2020";
 	
 	//constructor to initialize bufferedReader
 	public Utility(){
