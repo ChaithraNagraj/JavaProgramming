@@ -1,0 +1,1709 @@
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Total numver of deck of cards are 52
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  ------ Person 1 -----
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -5 Hearts (Card 0)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -7 Diamonds (Card 4)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -8 Spades (Card 8)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Jack Spades (Card 12)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Queen Clubs (Card 16)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -King Diamonds (Card 20)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -8 Diamonds (Card 24)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -3 Spades (Card 28)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Queen Diamonds (Card 32)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  ------ Person 2 -----
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Jack Hearts (Card 1)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -10 Spades (Card 5)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -5 Spades (Card 9)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Ace Spades (Card 13)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Ace Diamonds (Card 17)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -3 Hearts (Card 21)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -7 Hearts (Card 25)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -King Clubs (Card 29)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -8 Clubs (Card 33)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  ------ Person 3 -----
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -4 Clubs (Card 2)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -6 Spades (Card 6)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -6 Diamonds (Card 10)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -4 Diamonds (Card 14)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Jack Diamonds (Card 18)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -8 Hearts (Card 22)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -4 Hearts (Card 26)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -9 Diamonds (Card 30)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -2 Diamonds (Card 34)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  ------ Person 4 -----
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -10 Hearts (Card 3)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -9 Hearts (Card 7)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -2 Hearts (Card 11)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -9 Clubs (Card 15)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -3 Clubs (Card 19)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Jack Clubs (Card 23)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -10 Clubs (Card 27)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -2 Spades (Card 31)
+2020-03-06 13:05:53 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Queen Hearts (Card 35)
+2020-03-06 13:15:43 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 1 to create and stock account management: 
+2020-03-06 13:15:43 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 2 to add the  bought stock details: 
+2020-03-06 13:15:43 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 3 to add sold stock details: 
+2020-03-06 13:15:43 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 4 to update bought  stock details: 
+2020-03-06 13:15:43 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 5 to update sold stock details: 
+2020-03-06 13:15:43 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 6 to check if particular stock is empty: 
+2020-03-06 13:15:43 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 7 to print the stock report: 
+2020-03-06 13:15:59 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the stock account management name: 
+2020-03-06 13:16:28 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 1 to create and stock account management: 
+2020-03-06 13:16:28 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 2 to add the  bought stock details: 
+2020-03-06 13:16:28 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 3 to add sold stock details: 
+2020-03-06 13:16:28 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 4 to update bought  stock details: 
+2020-03-06 13:16:28 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 5 to update sold stock details: 
+2020-03-06 13:16:28 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 6 to check if particular stock is empty: 
+2020-03-06 13:16:28 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 7 to print the stock report: 
+2020-03-06 13:16:30 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the stock account management name: 
+2020-03-06 13:19:51 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 1 to create and stock account management: 
+2020-03-06 13:19:51 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 2 to add the  bought stock details: 
+2020-03-06 13:19:51 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 3 to add sold stock details: 
+2020-03-06 13:19:51 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 4 to update bought  stock details: 
+2020-03-06 13:19:51 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 5 to update sold stock details: 
+2020-03-06 13:19:51 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 6 to check if particular stock is empty: 
+2020-03-06 13:19:51 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 7 to print the stock report: 
+2020-03-06 13:20:07 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the stock account management name: 
+2020-03-06 13:21:57 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 1 to create and stock account management: 
+2020-03-06 13:21:57 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 2 to add the  bought stock details: 
+2020-03-06 13:21:57 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 3 to add sold stock details: 
+2020-03-06 13:21:57 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 4 to update bought  stock details: 
+2020-03-06 13:21:57 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 5 to update sold stock details: 
+2020-03-06 13:21:57 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 6 to check if particular stock is empty: 
+2020-03-06 13:21:57 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 7 to print the stock report: 
+2020-03-06 13:22:16 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the file name: 
+2020-03-06 13:22:30 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the share name: 
+2020-03-06 13:22:35 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the stock symbol: 
+2020-03-06 13:22:44 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the number of shares bought: 
+2020-03-06 13:23:06 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the bought  price: 
+2020-03-06 13:26:25 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 13:27:09 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 13:28:28 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 13:29:17 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 13:29:32 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 13:37:38 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 14:40:16 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 14:41:41 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 14:43:35 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 14:45:54 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 14:46:33 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 14:46:35 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -Select the inventory name 
+ 1.rice 2.wheat 3.pulses
+2020-03-06 14:52:20 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 14:53:12 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 14:53:59 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 14:54:02 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -oops nothing is present in the file !! first add inputs on to file or select second choice
+2020-03-06 14:54:02 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -Press 1 to continue
+2020-03-06 14:55:32 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 14:55:39 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -Select the inventory name 
+ 1.rice 2.wheat 3.pulses
+2020-03-06 14:55:42 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter name of inventory
+2020-03-06 14:55:56 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter weight of inventory in kilograms
+2020-03-06 14:56:05 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter price of inventory in rupees
+2020-03-06 14:56:16 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -wish to add some more inventorry(1 or 0)
+2020-03-06 14:56:25 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -Select the inventory name 
+ 1.rice 2.wheat 3.pulses
+2020-03-06 14:56:26 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter name of inventory
+2020-03-06 14:56:35 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter weight of inventory in kilograms
+2020-03-06 14:56:40 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter price of inventory in rupees
+2020-03-06 14:56:43 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -wish to add some more inventorry(1 or 0)
+2020-03-06 14:56:46 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -Select the inventory name 
+ 1.rice 2.wheat 3.pulses
+2020-03-06 14:57:20 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 14:57:23 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -oops nothing is present in the file !! first add inputs on to file or select second choice
+2020-03-06 14:57:23 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -Press 1 to continue
+2020-03-06 14:57:26 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 14:57:29 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -Select the inventory name 
+ 1.rice 2.wheat 3.pulses
+2020-03-06 14:57:31 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter name of inventory
+2020-03-06 14:57:40 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter weight of inventory in kilograms
+2020-03-06 14:57:44 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter price of inventory in rupees
+2020-03-06 14:57:45 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -wish to add some more inventorry(1 or 0)
+2020-03-06 14:57:48 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -Select the inventory name 
+ 1.rice 2.wheat 3.pulses
+2020-03-06 14:58:00 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter name of inventory
+2020-03-06 14:58:06 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter weight of inventory in kilograms
+2020-03-06 14:58:10 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter price of inventory in rupees
+2020-03-06 14:58:13 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -wish to add some more inventorry(1 or 0)
+2020-03-06 14:58:15 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -Select the inventory name 
+ 1.rice 2.wheat 3.pulses
+2020-03-06 14:58:17 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter name of inventory
+2020-03-06 14:58:20 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter weight of inventory in kilograms
+2020-03-06 14:58:24 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter price of inventory in rupees
+2020-03-06 14:58:26 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -wish to add some more inventorry(1 or 0)
+2020-03-06 14:58:29 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -Entered elements has been added to list
+2020-03-06 15:02:31 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 15:02:45 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -oops nothing is present in the file !! first add inputs on to file or select second choice
+2020-03-06 15:02:45 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -Press 1 to continue
+2020-03-06 15:02:50 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -1.Display file
+2.Add to file
+3.Check for price
+4.exit
+2020-03-06 15:02:51 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -Select the inventory name 
+ 1.rice 2.wheat 3.pulses
+2020-03-06 15:02:56 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter name of inventory
+2020-03-06 15:02:58 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter weight of inventory in kilograms
+2020-03-06 15:03:00 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter price of inventory in rupees
+2020-03-06 15:03:03 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -wish to add some more inventorry(1 or 0)
+2020-03-06 15:03:07 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -Select the inventory name 
+ 1.rice 2.wheat 3.pulses
+2020-03-06 15:03:08 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter name of inventory
+2020-03-06 15:03:18 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter weight of inventory in kilograms
+2020-03-06 15:03:20 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter price of inventory in rupees
+2020-03-06 15:03:22 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -wish to add some more inventorry(1 or 0)
+2020-03-06 15:03:25 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -Select the inventory name 
+ 1.rice 2.wheat 3.pulses
+2020-03-06 15:03:27 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter name of inventory
+2020-03-06 15:03:30 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter weight of inventory in kilograms
+2020-03-06 15:03:35 [main] INFO  com.bridgelabz.inventrymanagement.repositry.MethodsofInventoryfile  -Enter price of inventory in rupees
+2020-03-06 15:03:39 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -wish to add some more inventorry(1 or 0)
+2020-03-06 15:03:42 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -Entered elements has been added to list
+2020-03-06 15:03:42 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -Inventory list has been written on to file
+2020-03-06 15:03:42 [main] INFO  com.bridgelabz.inventrymanagement.controller.JSONInventory  -Press 1 to continue
+2020-03-06 15:11:27 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:11:27 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:11:48 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:11:48 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add doctor-----------------------
+2020-03-06 15:11:48 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:11:48 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding doctor<-
+2020-03-06 15:11:48 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor name: 
+2020-03-06 15:12:06 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization: 
+2020-03-06 15:12:06 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->availability<-
+2020-03-06 15:12:06 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Time format is of 24 hr
+2020-03-06 15:12:06 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Date format is dd/MM/yyyy
+2020-03-06 15:12:06 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -
+2020-03-06 15:12:06 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time in: 
+2020-03-06 15:12:33 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time out: 
+2020-03-06 15:12:40 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor date
+2020-03-06 15:12:49 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Doctor added...
+2020-03-06 15:12:49 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter 1. to add another doctor 2. close
+2020-03-06 15:13:05 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding doctor<-
+2020-03-06 15:13:05 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor name: 
+2020-03-06 15:13:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization: 
+2020-03-06 15:13:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->availability<-
+2020-03-06 15:13:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Time format is of 24 hr
+2020-03-06 15:13:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Date format is dd/MM/yyyy
+2020-03-06 15:13:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -
+2020-03-06 15:13:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time in: 
+2020-03-06 15:13:24 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time out: 
+2020-03-06 15:13:26 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor date
+2020-03-06 15:13:42 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Doctor added...
+2020-03-06 15:13:42 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter 1. to add another doctor 2. close
+2020-03-06 15:13:44 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding doctor<-
+2020-03-06 15:13:44 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor name: 
+2020-03-06 15:13:55 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization: 
+2020-03-06 15:13:55 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->availability<-
+2020-03-06 15:13:55 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Time format is of 24 hr
+2020-03-06 15:13:55 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Date format is dd/MM/yyyy
+2020-03-06 15:13:55 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -
+2020-03-06 15:13:55 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time in: 
+2020-03-06 15:14:23 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time out: 
+2020-03-06 15:14:26 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor date
+2020-03-06 15:14:34 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Doctor added...
+2020-03-06 15:14:34 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter 1. to add another doctor 2. close
+2020-03-06 15:14:38 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Please remember to save to persist records
+2020-03-06 15:14:38 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -closing...
+2020-03-06 15:14:38 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:14:38 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add doctor-----------------------
+2020-03-06 15:14:38 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:14:38 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:14:38 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:14:49 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:14:49 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add patient-----------------------
+2020-03-06 15:14:49 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:14:49 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding patient<-
+2020-03-06 15:14:49 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient name: 
+2020-03-06 15:14:59 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient age: 
+2020-03-06 15:15:03 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient mobile: 
+2020-03-06 15:15:13 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Patient added...
+2020-03-06 15:15:13 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter 1. to add another patient 2. close
+2020-03-06 15:15:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding patient<-
+2020-03-06 15:15:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient name: 
+2020-03-06 15:15:22 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient age: 
+2020-03-06 15:15:24 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient mobile: 
+2020-03-06 15:15:29 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Patient added...
+2020-03-06 15:15:29 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter 1. to add another patient 2. close
+2020-03-06 15:15:33 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding patient<-
+2020-03-06 15:15:33 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient name: 
+2020-03-06 15:15:36 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient age: 
+2020-03-06 15:15:44 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient mobile: 
+2020-03-06 15:15:51 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Patient added...
+2020-03-06 15:15:51 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter 1. to add another patient 2. close
+2020-03-06 15:15:55 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Please remember to save to persist records
+2020-03-06 15:15:55 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -closing...
+2020-03-06 15:15:55 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:15:55 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add patient-----------------------
+2020-03-06 15:15:55 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:15:55 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:15:55 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:17:57 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:17:57 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------search doctor by id-----------------------
+2020-03-06 15:17:57 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:17:57 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Instruction->Doctor id starts from 1
+2020-03-06 15:17:57 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor id to search: 
+2020-03-06 15:18:14 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Doctor [drid=1, drname=Dr. Vikram, drspecialization=Chiniwalar, dravailability=com.bridgelabz.clinicmanagement.model.Availability@39c0f4a, noofpatient=0]
+2020-03-06 15:18:14 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:18:14 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------search doctor by id-----------------------
+2020-03-06 15:18:14 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:18:14 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:18:14 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:18:47 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:18:47 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------search doctor by name-----------------------
+2020-03-06 15:18:47 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:18:47 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor name to search: 
+2020-03-06 15:19:01 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:19:01 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------search doctor by name-----------------------
+2020-03-06 15:19:01 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:19:01 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:19:01 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:19:23 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:19:23 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------search doctor by specialization-----------------------
+2020-03-06 15:19:23 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:19:23 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization to search: 
+2020-03-06 15:19:23 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Nagaraj Dr->
+2020-03-06 15:19:23 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -3. Dr. chaithra	
+2020-03-06 15:19:23 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Nagaraj	
+2020-03-06 15:19:23 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -12/03/2020	
+2020-03-06 15:19:23 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -3	
+2020-03-06 15:19:23 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -20	
+2020-03-06 15:19:23 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:19:23 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------search doctor by specialization-----------------------
+2020-03-06 15:19:23 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:19:23 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:19:23 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:19:29 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:19:29 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------search doctor by specialization-----------------------
+2020-03-06 15:19:29 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:19:29 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization to search: 
+2020-03-06 15:20:07 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:20:07 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------search doctor by specialization-----------------------
+2020-03-06 15:20:07 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:20:07 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:20:07 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:20:15 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:20:15 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------search doctor by availability-----------------------
+2020-03-06 15:20:15 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:20:15 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -Enter doctor date: 
+2020-03-06 15:20:23 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -Enter time from
+2020-03-06 15:20:29 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -12/03/2020 Dr->
+2020-03-06 15:20:29 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -3. Dr. chaithra	
+2020-03-06 15:20:29 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Nagaraj	
+2020-03-06 15:20:29 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -12/03/2020	
+2020-03-06 15:20:29 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -3	
+2020-03-06 15:20:29 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -20	
+2020-03-06 15:20:29 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:20:29 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------search doctor by availability-----------------------
+2020-03-06 15:20:29 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:20:29 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:20:29 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:21:05 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:21:05 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add appointment-----------------------
+2020-03-06 15:21:05 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:21:05 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization to search: 
+2020-03-06 15:21:17 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -No doctor found
+2020-03-06 15:21:17 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:21:17 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add appointment-----------------------
+2020-03-06 15:21:17 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:21:17 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:21:17 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:23:14 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:23:14 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:23:20 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:23:20 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add doctor-----------------------
+2020-03-06 15:23:20 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:23:20 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding doctor<-
+2020-03-06 15:23:20 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor name: 
+2020-03-06 15:23:25 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization: 
+2020-03-06 15:23:25 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->availability<-
+2020-03-06 15:23:25 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Time format is of 24 hr
+2020-03-06 15:23:25 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Date format is dd/MM/yyyy
+2020-03-06 15:23:25 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -
+2020-03-06 15:23:25 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time in: 
+2020-03-06 15:23:34 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time out: 
+2020-03-06 15:23:37 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor date
+2020-03-06 15:23:45 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Doctor added...
+2020-03-06 15:23:45 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter 1. to add another doctor 2. close
+2020-03-06 15:23:53 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Please remember to save to persist records
+2020-03-06 15:23:53 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -closing...
+2020-03-06 15:23:53 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:23:53 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add doctor-----------------------
+2020-03-06 15:23:53 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:23:53 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:23:53 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:24:05 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:24:05 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add patient-----------------------
+2020-03-06 15:24:05 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:24:05 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding patient<-
+2020-03-06 15:24:05 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient name: 
+2020-03-06 15:24:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient age: 
+2020-03-06 15:26:49 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:26:49 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:27:02 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:27:02 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add doctor-----------------------
+2020-03-06 15:27:02 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:27:02 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding doctor<-
+2020-03-06 15:27:02 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor name: 
+2020-03-06 15:27:10 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization: 
+2020-03-06 15:27:10 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->availability<-
+2020-03-06 15:27:10 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Time format is of 24 hr
+2020-03-06 15:27:10 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Date format is dd/MM/yyyy
+2020-03-06 15:27:10 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -
+2020-03-06 15:27:10 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time in: 
+2020-03-06 15:27:57 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:27:57 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:28:00 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:28:00 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add doctor-----------------------
+2020-03-06 15:28:00 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:28:00 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding doctor<-
+2020-03-06 15:28:00 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor name: 
+2020-03-06 15:28:13 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization: 
+2020-03-06 15:28:13 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->availability<-
+2020-03-06 15:28:13 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Time format is of 24 hr
+2020-03-06 15:28:13 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Date format is dd/MM/yyyy
+2020-03-06 15:28:13 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -
+2020-03-06 15:28:13 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time in: 
+2020-03-06 15:28:19 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time out: 
+2020-03-06 15:28:24 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor date
+2020-03-06 15:28:33 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Doctor added...
+2020-03-06 15:28:33 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter 1. to add another doctor 2. close
+2020-03-06 15:28:36 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding doctor<-
+2020-03-06 15:28:36 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor name: 
+2020-03-06 15:29:00 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization: 
+2020-03-06 15:29:00 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->availability<-
+2020-03-06 15:29:00 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Time format is of 24 hr
+2020-03-06 15:29:00 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Date format is dd/MM/yyyy
+2020-03-06 15:29:00 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -
+2020-03-06 15:29:00 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time in: 
+2020-03-06 15:29:02 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time out: 
+2020-03-06 15:29:06 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor date
+2020-03-06 15:29:13 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Doctor added...
+2020-03-06 15:29:13 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter 1. to add another doctor 2. close
+2020-03-06 15:29:22 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Please remember to save to persist records
+2020-03-06 15:29:22 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -closing...
+2020-03-06 15:29:22 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:29:22 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add doctor-----------------------
+2020-03-06 15:29:22 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:29:22 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:29:22 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:29:25 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:29:25 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add patient-----------------------
+2020-03-06 15:29:25 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:29:25 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding patient<-
+2020-03-06 15:29:25 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient name: 
+2020-03-06 15:29:33 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient age: 
+2020-03-06 15:29:36 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient mobile: 
+2020-03-06 15:29:42 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Patient added...
+2020-03-06 15:29:42 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter 1. to add another patient 2. close
+2020-03-06 15:29:44 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding patient<-
+2020-03-06 15:29:44 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient name: 
+2020-03-06 15:29:51 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient age: 
+2020-03-06 15:29:53 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient mobile: 
+2020-03-06 15:29:58 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Patient added...
+2020-03-06 15:29:58 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter 1. to add another patient 2. close
+2020-03-06 15:30:05 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Please remember to save to persist records
+2020-03-06 15:30:05 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -closing...
+2020-03-06 15:30:05 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:30:05 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add patient-----------------------
+2020-03-06 15:30:05 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:30:05 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:30:05 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:30:10 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:30:10 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add appointment-----------------------
+2020-03-06 15:30:10 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:30:10 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization to search: 
+2020-03-06 15:30:30 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -No doctor found
+2020-03-06 15:30:30 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:30:30 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add appointment-----------------------
+2020-03-06 15:30:30 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:30:30 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:30:30 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:30:58 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:30:58 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------search doctor by specialization-----------------------
+2020-03-06 15:30:58 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:30:58 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization to search: 
+2020-03-06 15:30:58 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:30:58 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------search doctor by specialization-----------------------
+2020-03-06 15:30:58 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:30:58 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:30:58 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:31:08 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:31:08 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add appointment-----------------------
+2020-03-06 15:31:08 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:31:08 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization to search: 
+2020-03-06 15:31:21 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -No doctor found
+2020-03-06 15:31:21 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:31:21 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add appointment-----------------------
+2020-03-06 15:31:21 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:31:21 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:31:21 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:31:44 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------save-----------------------
+2020-03-06 15:31:44 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:31:44 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Saving...
+2020-03-06 15:31:46 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:31:46 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------save-----------------------
+2020-03-06 15:31:46 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:31:46 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:31:46 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:31:54 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:31:54 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add appointment-----------------------
+2020-03-06 15:31:54 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:31:54 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization to search: 
+2020-03-06 15:32:12 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -No doctor found
+2020-03-06 15:32:12 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:32:12 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add appointment-----------------------
+2020-03-06 15:32:12 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:32:12 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:32:12 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -NoOfPatient	Doctor record
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -0		
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -1	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Dr. vikram	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -chinnniwaler	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -12/03/2020	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -11	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -20	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -0		
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -2	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Dr. chaithra	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -nagraj	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -13/03/2020	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -12	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -20	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Patient records
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -1001	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -snuffy	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -12	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -9879877654	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -1002	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -bharathi	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -43	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -9880977654	
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:32:16 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:32:23 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -No appointments assign to doctor try again later
+2020-03-06 15:32:23 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:32:23 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:33:19 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:33:19 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add doctor-----------------------
+2020-03-06 15:33:19 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:33:19 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding doctor<-
+2020-03-06 15:33:19 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor name: 
+2020-03-06 15:33:19 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization: 
+2020-03-06 15:33:32 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->availability<-
+2020-03-06 15:33:32 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Time format is of 24 hr
+2020-03-06 15:33:32 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Date format is dd/MM/yyyy
+2020-03-06 15:33:32 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -
+2020-03-06 15:33:32 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time in: 
+2020-03-06 15:34:03 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:34:03 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:34:20 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:34:20 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add doctor-----------------------
+2020-03-06 15:34:20 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:34:20 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding doctor<-
+2020-03-06 15:34:20 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor name: 
+2020-03-06 15:34:46 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization: 
+2020-03-06 15:34:46 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->availability<-
+2020-03-06 15:34:46 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Time format is of 24 hr
+2020-03-06 15:34:46 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Date format is dd/MM/yyyy
+2020-03-06 15:34:46 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -
+2020-03-06 15:34:46 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time in: 
+2020-03-06 15:36:22 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:36:22 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:36:36 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:36:36 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add doctor-----------------------
+2020-03-06 15:36:36 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:36:36 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding doctor<-
+2020-03-06 15:36:36 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor name: 
+2020-03-06 15:36:44 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization: 
+2020-03-06 15:36:59 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->availability<-
+2020-03-06 15:36:59 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Time format is of 24 hr
+2020-03-06 15:36:59 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Date format is dd/MM/yyyy
+2020-03-06 15:36:59 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -
+2020-03-06 15:36:59 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time in: 
+2020-03-06 15:37:05 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time out: 
+2020-03-06 15:37:08 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor date
+2020-03-06 15:37:15 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Doctor added...
+2020-03-06 15:37:15 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter 1. to add another doctor 2. close
+2020-03-06 15:37:20 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding doctor<-
+2020-03-06 15:37:20 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor name: 
+2020-03-06 15:37:25 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization: 
+2020-03-06 15:37:33 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->availability<-
+2020-03-06 15:37:33 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Time format is of 24 hr
+2020-03-06 15:37:33 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Date format is dd/MM/yyyy
+2020-03-06 15:37:33 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -
+2020-03-06 15:37:33 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time in: 
+2020-03-06 15:37:37 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time out: 
+2020-03-06 15:37:39 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor date
+2020-03-06 15:37:50 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Doctor added...
+2020-03-06 15:37:50 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter 1. to add another doctor 2. close
+2020-03-06 15:37:56 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Please remember to save to persist records
+2020-03-06 15:37:56 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -closing...
+2020-03-06 15:37:56 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:37:56 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add doctor-----------------------
+2020-03-06 15:37:56 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:37:56 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:37:56 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:38:02 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:38:02 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add patient-----------------------
+2020-03-06 15:38:02 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:38:02 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding patient<-
+2020-03-06 15:38:02 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient name: 
+2020-03-06 15:38:11 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient age: 
+2020-03-06 15:39:14 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:39:14 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:39:19 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:39:19 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add doctor-----------------------
+2020-03-06 15:39:19 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:39:19 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding doctor<-
+2020-03-06 15:39:19 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor name: 
+2020-03-06 15:39:59 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:39:59 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:40:12 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-06 15:40:12 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add doctor-----------------------
+2020-03-06 15:40:12 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:40:12 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding doctor<-
+2020-03-06 15:40:12 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor name: 
+2020-03-06 15:40:16 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization: 
+2020-03-06 15:40:32 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->availability<-
+2020-03-06 15:40:32 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Time format is of 24 hr
+2020-03-06 15:40:32 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Date format is dd/MM/yyyy
+2020-03-06 15:40:32 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -
+2020-03-06 15:40:32 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time in: 
+2020-03-06 15:41:03 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:41:03 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:41:07 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:41:07 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add appointment-----------------------
+2020-03-06 15:41:07 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:41:07 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization to search: 
+2020-03-06 15:41:41 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -chinnniwaler Dr->
+2020-03-06 15:41:41 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -1. Dr. vikram	
+2020-03-06 15:41:41 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -chinnniwaler	
+2020-03-06 15:41:41 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -12/03/2020	
+2020-03-06 15:41:41 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -11	
+2020-03-06 15:41:41 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -20	
+2020-03-06 15:41:41 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor no. 
+2020-03-06 15:43:38 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:43:38 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:43:41 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:43:41 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add appointment-----------------------
+2020-03-06 15:43:41 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:43:41 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization to search: 
+2020-03-06 15:43:48 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -chinnniwaler Dr->
+2020-03-06 15:43:48 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -1. Dr. vikram	
+2020-03-06 15:43:48 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -chinnniwaler	
+2020-03-06 15:43:48 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -12/03/2020	
+2020-03-06 15:43:48 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -11	
+2020-03-06 15:43:48 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -20	
+2020-03-06 15:43:48 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor no. 
+2020-03-06 15:43:54 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Dr. vikram
+2020-03-06 15:43:54 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Dr. available on: 12/03/2020
+2020-03-06 15:43:54 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -proceed (yes/no)
+2020-03-06 15:44:03 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter time
+2020-03-06 15:44:08 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -12/03/2020 Dr->
+2020-03-06 15:44:08 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -1. Dr. vikram	
+2020-03-06 15:44:08 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -chinnniwaler	
+2020-03-06 15:44:08 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -12/03/2020	
+2020-03-06 15:44:08 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -11	
+2020-03-06 15:44:08 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -20	
+2020-03-06 15:44:08 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Time is available
+2020-03-06 15:44:08 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient id: 
+2020-03-06 15:44:31 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -No patient found with this id
+2020-03-06 15:44:31 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:44:31 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add appointment-----------------------
+2020-03-06 15:44:31 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:44:31 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:44:31 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:44:50 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:44:50 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add appointment-----------------------
+2020-03-06 15:44:50 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:44:50 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization to search: 
+2020-03-06 15:44:54 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -chinnniwaler Dr->
+2020-03-06 15:44:54 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -1. Dr. vikram	
+2020-03-06 15:44:54 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -chinnniwaler	
+2020-03-06 15:44:54 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -12/03/2020	
+2020-03-06 15:44:54 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -11	
+2020-03-06 15:44:54 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -20	
+2020-03-06 15:44:54 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor no. 
+2020-03-06 15:44:57 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Dr. vikram
+2020-03-06 15:44:57 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Dr. available on: 12/03/2020
+2020-03-06 15:44:57 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -proceed (yes/no)
+2020-03-06 15:45:11 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter time
+2020-03-06 15:45:15 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -12/03/2020 Dr->
+2020-03-06 15:45:15 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -1. Dr. vikram	
+2020-03-06 15:45:15 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -chinnniwaler	
+2020-03-06 15:45:15 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -12/03/2020	
+2020-03-06 15:45:15 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -11	
+2020-03-06 15:45:15 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -20	
+2020-03-06 15:45:15 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Time is available
+2020-03-06 15:45:15 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter patient id: 
+2020-03-06 15:45:33 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Patient Details	
+
+2020-03-06 15:45:33 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -1001	
+2020-03-06 15:45:33 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -snuffy	
+2020-03-06 15:45:33 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -12	
+2020-03-06 15:45:33 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -9879877654	
+2020-03-06 15:45:33 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -To book appointment press (yes/no)
+2020-03-06 15:45:41 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Appointment Booked...
+2020-03-06 15:45:41 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:45:41 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add appointment-----------------------
+2020-03-06 15:45:41 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-06 15:45:41 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-06 15:45:41 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-06 15:50:02 [main] INFO  com.bridgelabz.addressbook.controller.AddressBookManager  -Address book manager
+
+2020-03-06 15:50:02 [main] INFO  com.bridgelabz.addressbook.controller.AddressBookManager  -Select menu
+2020-03-06 15:50:02 [main] INFO  com.bridgelabz.addressbook.controller.AddressBookManager  -1. New Address Book
+2. Open Address Book
+3. Save Address Book
+4. SaveAs Address Book
+5. Quit
+2020-03-06 15:50:20 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  ------------------------New Address Book-----------------------
+2020-03-06 15:50:20 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter state name: 
+2020-03-06 15:50:27 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -->State is added<-
+2020-03-06 15:50:27 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Select option: 
+1.add
+2.edit
+3.delete
+4.sort by last name
+5.sort by zip
+6.print
+7.close
+2020-03-06 15:50:30 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Add person details...
+2020-03-06 15:50:30 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter mobile
+2020-03-06 15:50:37 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter person first name: 
+2020-03-06 15:50:41 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter person last name: 
+2020-03-06 15:50:47 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter address Details: 
+2020-03-06 15:50:47 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter address: 
+2020-03-06 15:51:09 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter city: 
+2020-03-06 15:51:09 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter zip: 
+2020-03-06 15:51:18 [main] INFO  com.bridgelabz.addressbook.controller.AddressBookManager  -Address book manager
+
+2020-03-06 15:51:18 [main] INFO  com.bridgelabz.addressbook.controller.AddressBookManager  -Select menu
+2020-03-06 15:51:18 [main] INFO  com.bridgelabz.addressbook.controller.AddressBookManager  -1. New Address Book
+2. Open Address Book
+3. Save Address Book
+4. SaveAs Address Book
+5. Quit
+2020-03-06 15:51:20 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  ------------------------New Address Book-----------------------
+2020-03-06 15:51:20 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter state name: 
+2020-03-06 15:51:27 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -->State is added<-
+2020-03-06 15:51:27 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Select option: 
+1.add
+2.edit
+3.delete
+4.sort by last name
+5.sort by zip
+6.print
+7.close
+2020-03-06 15:51:29 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Add person details...
+2020-03-06 15:51:29 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter mobile
+2020-03-06 15:51:35 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter person first name: 
+2020-03-06 15:51:38 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter person last name: 
+2020-03-06 15:51:41 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter address Details: 
+2020-03-06 15:51:41 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter address: 
+2020-03-06 15:51:46 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter city: 
+2020-03-06 15:51:58 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter zip: 
+2020-03-06 15:52:03 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  - 
+2020-03-06 15:52:03 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Person added
+2020-03-06 15:52:03 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Select option: 
+1.add
+2.edit
+3.delete
+4.sort by last name
+5.sort by zip
+6.print
+7.close
+2020-03-06 15:52:08 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Add person details...
+2020-03-06 15:52:08 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter mobile
+2020-03-06 15:52:29 [main] INFO  com.bridgelabz.addressbook.controller.AddressBookManager  -Address book manager
+
+2020-03-06 15:52:29 [main] INFO  com.bridgelabz.addressbook.controller.AddressBookManager  -Select menu
+2020-03-06 15:52:29 [main] INFO  com.bridgelabz.addressbook.controller.AddressBookManager  -1. New Address Book
+2. Open Address Book
+3. Save Address Book
+4. SaveAs Address Book
+5. Quit
+2020-03-06 15:52:32 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  ------------------------New Address Book-----------------------
+2020-03-06 15:52:32 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter state name: 
+2020-03-06 15:52:38 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -->State is added<-
+2020-03-06 15:52:38 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Select option: 
+1.add
+2.edit
+3.delete
+4.sort by last name
+5.sort by zip
+6.print
+7.close
+2020-03-06 15:52:42 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Add person details...
+2020-03-06 15:52:42 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter mobile
+2020-03-06 15:52:50 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter person first name: 
+2020-03-06 15:52:54 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter person last name: 
+2020-03-06 15:52:59 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter address Details: 
+2020-03-06 15:52:59 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter address: 
+2020-03-06 15:53:12 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter city: 
+2020-03-06 15:53:18 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter zip: 
+2020-03-06 15:53:23 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  - 
+2020-03-06 15:53:23 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Person added
+2020-03-06 15:53:23 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Select option: 
+1.add
+2.edit
+3.delete
+4.sort by last name
+5.sort by zip
+6.print
+7.close
+2020-03-06 15:53:27 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Add person details...
+2020-03-06 15:53:27 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter mobile
+2020-03-06 15:53:43 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter person first name: 
+2020-03-06 15:53:52 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter person last name: 
+2020-03-06 15:53:58 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter address Details: 
+2020-03-06 15:53:58 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter address: 
+2020-03-06 15:54:02 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter city: 
+2020-03-06 15:54:06 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter zip: 
+2020-03-06 15:54:09 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  - 
+2020-03-06 15:54:09 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Person added
+2020-03-06 15:54:09 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Select option: 
+1.add
+2.edit
+3.delete
+4.sort by last name
+5.sort by zip
+6.print
+7.close
+2020-03-06 15:54:14 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Add person details...
+2020-03-06 15:54:14 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter mobile
+2020-03-06 15:54:22 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter person first name: 
+2020-03-06 15:54:29 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter person last name: 
+2020-03-06 15:54:34 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter address Details: 
+2020-03-06 15:54:34 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter address: 
+2020-03-06 15:54:40 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter city: 
+2020-03-06 15:54:44 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter zip: 
+2020-03-06 15:54:47 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  - 
+2020-03-06 15:54:47 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Person added
+2020-03-06 15:54:47 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Select option: 
+1.add
+2.edit
+3.delete
+4.sort by last name
+5.sort by zip
+6.print
+7.close
+2020-03-06 15:54:51 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Sorting by Last name is selected
+2020-03-06 15:54:51 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Please wait...
+2020-03-06 15:54:53 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Sorting is completed to see the result select print option
+2020-03-06 15:54:53 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Select option: 
+1.add
+2.edit
+3.delete
+4.sort by last name
+5.sort by zip
+6.print
+7.close
+2020-03-06 15:55:14 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Printing all records...
+2020-03-06 15:55:14 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Person detail
+
+2020-03-06 15:55:14 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -harshith chappera mysuru mysuru karnataka 570023 8876767654
+2020-03-06 15:55:14 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -vikram chiniwalar Bailhongal belgam karnataka 576655 8867619007
+2020-03-06 15:55:14 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -bharathi nagaraj Hassan Hassan karnataka 564656 9880922675
+2020-03-06 15:55:14 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Select option: 
+1.add
+2.edit
+3.delete
+4.sort by last name
+5.sort by zip
+6.print
+7.close
+2020-03-06 15:55:48 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Closing...
+2020-03-06 15:55:48 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  ------------------------New Address Book-----------------------
+2020-03-06 15:55:48 [main] INFO  com.bridgelabz.addressbook.controller.AddressBookManager  -Select menu
+2020-03-06 15:55:48 [main] INFO  com.bridgelabz.addressbook.controller.AddressBookManager  -1. New Address Book
+2. Open Address Book
+3. Save Address Book
+4. SaveAs Address Book
+5. Quit
+2020-03-06 15:55:56 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  ------------------------Open Address Book-----------------------
+2020-03-06 15:55:56 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -states available [karnataka]
+2020-03-06 15:55:56 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Enter state
+2020-03-06 15:56:04 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -->State is found<-
+2020-03-06 15:56:04 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Select option: 
+1.add
+2.edit
+3.delete
+4.sort by last name
+5.sort by zip
+6.print
+7.quit
+2020-03-06 15:57:16 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Printing all records...
+2020-03-06 15:57:16 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Person detail
+
+2020-03-06 15:57:16 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -harshith chappera mysuru mysuru karnataka 570023 8876767654
+2020-03-06 15:57:16 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -vikram chiniwalar Bailhongal belgam karnataka 576655 8867619007
+2020-03-06 15:57:16 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -bharathi nagaraj Hassan Hassan karnataka 564656 9880922675
+2020-03-06 15:57:16 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Select option: 
+1.add
+2.edit
+3.delete
+4.sort by last name
+5.sort by zip
+6.print
+7.quit
+2020-03-06 15:57:24 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Printing all records...
+2020-03-06 15:57:24 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Person detail
+
+2020-03-06 15:57:24 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -harshith chappera mysuru mysuru karnataka 570023 8876767654
+2020-03-06 15:57:24 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -vikram chiniwalar Bailhongal belgam karnataka 576655 8867619007
+2020-03-06 15:57:24 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -bharathi nagaraj Hassan Hassan karnataka 564656 9880922675
+2020-03-06 15:57:24 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Select option: 
+1.add
+2.edit
+3.delete
+4.sort by last name
+5.sort by zip
+6.print
+7.quit
+2020-03-06 15:57:35 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Closing...
+2020-03-06 15:57:35 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  ------------------------Open Address Book-----------------------
+2020-03-06 15:57:35 [main] INFO  com.bridgelabz.addressbook.controller.AddressBookManager  -Select menu
+2020-03-06 15:57:35 [main] INFO  com.bridgelabz.addressbook.controller.AddressBookManager  -1. New Address Book
+2. Open Address Book
+3. Save Address Book
+4. SaveAs Address Book
+5. Quit
+2020-03-06 15:57:38 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  ------------------------Save Address Book-----------------------
+2020-03-06 15:57:38 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -->Saving address book into json<-
+2020-03-06 15:57:40 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  - 
+2020-03-06 15:57:40 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  -Writing into file successful....
+2020-03-06 15:57:40 [main] INFO  com.bridgelabz.addressbook.serviceprovider.ImplAddressBookUtil  ------------------------Save Address Book-----------------------
+2020-03-06 15:57:40 [main] INFO  com.bridgelabz.addressbook.controller.AddressBookManager  -Select menu
+2020-03-06 15:57:40 [main] INFO  com.bridgelabz.addressbook.controller.AddressBookManager  -1. New Address Book
+2. Open Address Book
+3. Save Address Book
+4. SaveAs Address Book
+5. Quit
+2020-03-07 10:11:46 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 1 to create and stock account management: 
+2020-03-07 10:11:46 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 2 to add the  bought stock details: 
+2020-03-07 10:11:46 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 3 to add sold stock details: 
+2020-03-07 10:11:46 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 4 to update bought  stock details: 
+2020-03-07 10:11:46 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 5 to update sold stock details: 
+2020-03-07 10:11:46 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 6 to check if particular stock is empty: 
+2020-03-07 10:11:46 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 7 to print the stock report: 
+2020-03-07 10:14:57 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 1 to create and stock account management: 
+2020-03-07 10:14:57 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 2 to add the  bought stock details: 
+2020-03-07 10:14:57 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 3 to add sold stock details: 
+2020-03-07 10:14:57 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 4 to update bought  stock details: 
+2020-03-07 10:14:58 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 5 to update sold stock details: 
+2020-03-07 10:14:58 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 6 to check if particular stock is empty: 
+2020-03-07 10:14:58 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 7 to print the stock report: 
+2020-03-07 10:15:17 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the stock account management name: 
+2020-03-07 10:15:32 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the file name: 
+2020-03-07 10:15:39 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the share name: 
+2020-03-07 10:15:53 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the stock symbol: 
+2020-03-07 10:15:59 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the number of shares bought: 
+2020-03-07 10:16:03 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the bought  price: 
+2020-03-07 10:18:07 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 1 to create and stock account management: 
+2020-03-07 10:18:07 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 2 to add the  bought stock details: 
+2020-03-07 10:18:07 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 3 to add sold stock details: 
+2020-03-07 10:18:07 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 4 to update bought  stock details: 
+2020-03-07 10:18:07 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 5 to update sold stock details: 
+2020-03-07 10:18:07 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 6 to check if particular stock is empty: 
+2020-03-07 10:18:07 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 7 to print the stock report: 
+2020-03-07 10:18:15 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the stock account management name: 
+2020-03-07 10:18:21 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the file name: 
+2020-03-07 10:18:29 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the share name: 
+2020-03-07 10:18:36 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the stock symbol: 
+2020-03-07 10:18:41 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the number of shares bought: 
+2020-03-07 10:18:45 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the bought  price: 
+2020-03-07 10:19:14 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 1 to create and stock account management: 
+2020-03-07 10:19:14 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 2 to add the  bought stock details: 
+2020-03-07 10:19:14 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 3 to add sold stock details: 
+2020-03-07 10:19:14 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 4 to update bought  stock details: 
+2020-03-07 10:19:14 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 5 to update sold stock details: 
+2020-03-07 10:19:14 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 6 to check if particular stock is empty: 
+2020-03-07 10:19:14 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 7 to print the stock report: 
+2020-03-07 10:19:17 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the file name: 
+2020-03-07 10:19:21 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the share name: 
+2020-03-07 10:19:29 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the stock symbol: 
+2020-03-07 10:19:32 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the number of shares bought: 
+2020-03-07 10:19:35 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the bought  price: 
+2020-03-07 10:19:36 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -Do you want to continue yes/no: 
+2020-03-07 10:19:41 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 1 to create and stock account management: 
+2020-03-07 10:19:41 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 2 to add the  bought stock details: 
+2020-03-07 10:19:41 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 3 to add sold stock details: 
+2020-03-07 10:19:41 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 4 to update bought  stock details: 
+2020-03-07 10:19:41 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 5 to update sold stock details: 
+2020-03-07 10:19:41 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 6 to check if particular stock is empty: 
+2020-03-07 10:19:41 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 7 to print the stock report: 
+2020-03-07 10:20:01 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the file name: 
+2020-03-07 10:20:09 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the stock name:  
+2020-03-07 10:20:13 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the number of shares sold: 
+2020-03-07 10:20:22 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the sold  price: 
+2020-03-07 10:21:35 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 1 to create and stock account management: 
+2020-03-07 10:21:35 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 2 to add the  bought stock details: 
+2020-03-07 10:21:35 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 3 to add sold stock details: 
+2020-03-07 10:21:35 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 4 to update bought  stock details: 
+2020-03-07 10:21:35 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 5 to update sold stock details: 
+2020-03-07 10:21:35 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 6 to check if particular stock is empty: 
+2020-03-07 10:21:35 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 7 to print the stock report: 
+2020-03-07 10:21:42 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the file name: 
+2020-03-07 10:21:48 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the stock name:  
+2020-03-07 10:21:57 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the number of shares sold: 
+2020-03-07 10:22:02 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the sold  price: 
+2020-03-07 10:22:42 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 1 to create and stock account management: 
+2020-03-07 10:22:42 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 2 to add the  bought stock details: 
+2020-03-07 10:22:42 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 3 to add sold stock details: 
+2020-03-07 10:22:42 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 4 to update bought  stock details: 
+2020-03-07 10:22:42 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 5 to update sold stock details: 
+2020-03-07 10:22:42 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 6 to check if particular stock is empty: 
+2020-03-07 10:22:42 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 7 to print the stock report: 
+2020-03-07 10:22:48 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the file name: 
+2020-03-07 10:23:03 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the stock name:  
+2020-03-07 10:23:06 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the number of shares sold: 
+2020-03-07 10:23:10 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the sold  price: 
+2020-03-07 10:23:55 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 1 to create and stock account management: 
+2020-03-07 10:23:55 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 2 to add the  bought stock details: 
+2020-03-07 10:23:55 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 3 to add sold stock details: 
+2020-03-07 10:23:55 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 4 to update bought  stock details: 
+2020-03-07 10:23:55 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 5 to update sold stock details: 
+2020-03-07 10:23:55 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 6 to check if particular stock is empty: 
+2020-03-07 10:23:55 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 7 to print the stock report: 
+2020-03-07 10:24:03 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the file name: 
+2020-03-07 10:24:07 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the stock name:  
+2020-03-07 10:24:10 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the number of shares sold: 
+2020-03-07 10:24:17 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the sold  price: 
+2020-03-07 10:24:21 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -Do you want to continue yes/no: 
+2020-03-07 10:24:58 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 1 to create and stock account management: 
+2020-03-07 10:24:58 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 2 to add the  bought stock details: 
+2020-03-07 10:24:58 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 3 to add sold stock details: 
+2020-03-07 10:24:58 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 4 to update bought  stock details: 
+2020-03-07 10:24:58 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 5 to update sold stock details: 
+2020-03-07 10:24:58 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 6 to check if particular stock is empty: 
+2020-03-07 10:24:58 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 7 to print the stock report: 
+2020-03-07 10:25:13 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the file name: 
+2020-03-07 10:25:18 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the stock name: 
+2020-03-07 10:25:22 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the number of shares bought: 
+2020-03-07 10:25:37 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the price of shares bought:  
+2020-03-07 10:25:40 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -Do you want to continue yes/no: 
+2020-03-07 10:25:46 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 1 to create and stock account management: 
+2020-03-07 10:25:46 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 2 to add the  bought stock details: 
+2020-03-07 10:25:46 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 3 to add sold stock details: 
+2020-03-07 10:25:46 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 4 to update bought  stock details: 
+2020-03-07 10:25:46 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 5 to update sold stock details: 
+2020-03-07 10:25:46 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 6 to check if particular stock is empty: 
+2020-03-07 10:25:46 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 7 to print the stock report: 
+2020-03-07 10:26:11 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the file name: 
+2020-03-07 10:26:22 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the share name: 
+2020-03-07 10:26:29 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the stock symbol: 
+2020-03-07 10:26:36 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the number of shares bought: 
+2020-03-07 10:26:40 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the bought  price: 
+2020-03-07 10:27:16 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 1 to create and stock account management: 
+2020-03-07 10:27:16 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 2 to add the  bought stock details: 
+2020-03-07 10:27:16 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 3 to add sold stock details: 
+2020-03-07 10:27:16 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 4 to update bought  stock details: 
+2020-03-07 10:27:16 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 5 to update sold stock details: 
+2020-03-07 10:27:16 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 6 to check if particular stock is empty: 
+2020-03-07 10:27:16 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter 7 to print the stock report: 
+2020-03-07 10:27:19 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the file name: 
+2020-03-07 10:27:22 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the share name: 
+2020-03-07 10:27:27 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the stock symbol: 
+2020-03-07 10:27:34 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the number of shares bought: 
+2020-03-07 10:27:41 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -enter the bought  price: 
+2020-03-07 10:27:43 [main] INFO  com.bridgelabz.stockaccountmanagement.controller.Runner  -Do you want to continue yes/no: 
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Total numver of deck of cards are 52
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  ------ Person 1 -----
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -4 Spades (Card 0)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -9 Diamonds (Card 4)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -King Spades (Card 8)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Ace Hearts (Card 12)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Ace Clubs (Card 16)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -3 Hearts (Card 20)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Queen Clubs (Card 24)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -6 Spades (Card 28)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -2 Clubs (Card 32)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  ------ Person 2 -----
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Jack Diamonds (Card 1)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -10 Hearts (Card 5)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -7 Spades (Card 9)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -9 Spades (Card 13)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -10 Diamonds (Card 17)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -King Hearts (Card 21)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -5 Spades (Card 25)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Queen Hearts (Card 29)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Ace Spades (Card 33)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  ------ Person 3 -----
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -2 Hearts (Card 2)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -9 Hearts (Card 6)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -7 Diamonds (Card 10)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -6 Clubs (Card 14)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -8 Spades (Card 18)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -7 Clubs (Card 22)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -3 Spades (Card 26)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -3 Diamonds (Card 30)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Jack Hearts (Card 34)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  ------ Person 4 -----
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -8 Hearts (Card 3)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -2 Spades (Card 7)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -5 Hearts (Card 11)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -4 Hearts (Card 15)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -8 Clubs (Card 19)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -King Diamonds (Card 23)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -King Clubs (Card 27)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Jack Clubs (Card 31)
+2020-03-11 16:08:58 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Queen Spades (Card 35)
+2020-03-11 16:10:17 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -Total numver of deck of cards are 52
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  ----------------------------------------- Person 1 -------------------------------------------
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -4_Diamonds 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -4_Hearts 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -5_Clubs 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -6_Hearts 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -7_Diamonds 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -9_Clubs 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -;10_Hearts 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -Jack_Diamonds 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -Jack_Spades 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  - 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  ----------------------------------------- Person 2 -------------------------------------------
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -2_Spades 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -4_Clubs 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -5_Diamonds 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -6_Spades 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -7_Clubs 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -8_Clubs 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -Ace_Diamonds 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -King_Spades 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -Queen_Hearts 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  - 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  ----------------------------------------- Person 3 -------------------------------------------
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -4_Spades 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -8_Diamonds 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -8_Hearts 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -9_Hearts 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -9_Spades 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -;10_Spades 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -Ace_Spades 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -Jack_Clubs 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -King_Hearts 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  - 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  ----------------------------------------- Person 4 -------------------------------------------
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -2_Clubs 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -5_Hearts 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -7_Hearts 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -7_Spades 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -9_Diamonds 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -King_Clubs 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -King_Diamonds 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -Queen_Clubs 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  -Queen_Spades 
+2020-03-11 16:10:18 [main] INFO  com.bridgelabz.deckofcards.controller.DeckQueue  - 
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Total numver of deck of cards are 52
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  ------ Person 1 -----
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -7 Hearts (Card 0)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Jack Clubs (Card 4)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Queen Clubs (Card 8)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Queen Spades (Card 12)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -4 Clubs (Card 16)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -4 Diamonds (Card 20)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -2 Clubs (Card 24)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -5 Clubs (Card 28)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -7 Clubs (Card 32)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  ------ Person 2 -----
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -6 Clubs (Card 1)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -8 Spades (Card 5)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -King Spades (Card 9)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -2 Diamonds (Card 13)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -9 Clubs (Card 17)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -4 Hearts (Card 21)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -10 Hearts (Card 25)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -3 Diamonds (Card 29)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -2 Spades (Card 33)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  ------ Person 3 -----
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Ace Spades (Card 2)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -2 Hearts (Card 6)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Ace Clubs (Card 10)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -6 Spades (Card 14)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -8 Hearts (Card 18)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -10 Diamonds (Card 22)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -3 Spades (Card 26)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Queen Diamonds (Card 30)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Jack Spades (Card 34)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  ------ Person 4 -----
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -8 Diamonds (Card 3)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -3 Clubs (Card 7)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -King Hearts (Card 11)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -Jack Diamonds (Card 15)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -4 Spades (Card 19)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -9 Spades (Card 23)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -5 Spades (Card 27)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -King Clubs (Card 31)
+2020-03-11 16:11:21 [main] INFO  com.bridgelabz.deckofcards.controller.Deck  -6 Hearts (Card 35)
+2020-03-12 11:05:19 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-12 11:05:19 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
+2020-03-12 11:05:44 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-12 11:05:44 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add doctor-----------------------
+2020-03-12 11:05:44 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+2020-03-12 11:05:44 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->adding doctor<-
+2020-03-12 11:05:44 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor name: 
+2020-03-12 11:06:14 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor specialization: 
+2020-03-12 11:06:48 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -->availability<-
+2020-03-12 11:06:48 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Time format is of 24 hr
+2020-03-12 11:06:48 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Date format is dd/MM/yyyy
+2020-03-12 11:06:48 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -
+2020-03-12 11:06:48 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time in: 
+2020-03-12 11:06:56 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor time out: 
+2020-03-12 11:07:00 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter doctor date
+2020-03-12 11:07:19 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Doctor added...
+2020-03-12 11:07:19 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Enter 1. to add another doctor 2. close
+2020-03-12 11:08:17 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -Please remember to save to persist records
+2020-03-12 11:08:17 [main] INFO  com.bridgelabz.clinicmanagement.services.ImplcliniqueUtil  -closing...
+2020-03-12 11:08:17 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-12 11:08:17 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  --------------------------add doctor-----------------------
+2020-03-12 11:08:17 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  - 
+2020-03-12 11:08:17 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -
+Select option from menu
+
+2020-03-12 11:08:17 [main] INFO  com.bridgelabz.clinicmanagement.controller.Clinique  -1. add doctor
+2. add patient
+3. search doctor by id
+4. search doctor by name
+5. search doctor by specialization
+6. search doctor by availability
+7. search patient by id
+8. search patient by name
+9. search patient by number
+10. add appointment
+11. save
+12. exit
+13. show records
+14. see popular doctor
