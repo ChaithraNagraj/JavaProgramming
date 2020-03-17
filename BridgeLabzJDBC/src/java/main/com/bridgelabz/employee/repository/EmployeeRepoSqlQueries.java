@@ -17,3 +17,4 @@ public class EmployeeRepoSqlQueries {
 		String sql = "DELETE FROM bridgelabzemployee WHERE empName=?";
 		return sql;
 	}}
+
