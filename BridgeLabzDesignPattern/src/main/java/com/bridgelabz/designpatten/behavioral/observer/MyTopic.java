@@ -26,6 +26,7 @@ public class MyTopic implements Subject{
 			observers.remove(obj);
 		}
 	}
+	
 
 	@Override
 	public void notifyObservers() {
