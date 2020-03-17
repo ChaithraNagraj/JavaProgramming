@@ -1,5 +1,5 @@
 package com.bridgelabz.designpatten.behavioral.observer;
-
+//implementationn
 public class MyTopicSubscriber implements Observer {
 	private String name;
 	private Subject topic;
