@@ -1,6 +1,5 @@
 package com.bridgelabz.designpatten.behavioral.observer;
 
-
 public class ObserverPatternTest {
 	public static void main(String[] args) {
 		//create subject
