@@ -11,5 +11,4 @@ public interface Subject {
 		//method to get updates from subject
 		public Object getUpdate(Observer obj);
 		
-
 }
