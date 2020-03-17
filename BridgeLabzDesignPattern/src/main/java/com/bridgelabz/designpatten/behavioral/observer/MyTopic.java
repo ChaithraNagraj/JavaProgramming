@@ -3,6 +3,7 @@ package com.bridgelabz.designpatten.behavioral.observer;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class MyTopic implements Subject{
 	private List<Observer> observers;
 	private String message;
