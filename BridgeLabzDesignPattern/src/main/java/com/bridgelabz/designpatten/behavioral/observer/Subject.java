@@ -1,5 +1,5 @@
 package com.bridgelabz.designpatten.behavioral.observer;
-
+//creating interface
 public interface Subject {
 	//methods to register and unregister observers
 		public void register(Observer obj);
