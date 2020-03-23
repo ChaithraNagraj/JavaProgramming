@@ -1,5 +1,4 @@
 package com.bridgelabz.loginreg.model;
-
 public class Customer {
 	private String firstName;
 	private String userId;
