@@ -4,7 +4,7 @@ public class Resources {
 	
 	private String url = "jdbc:mysql://localhost:3306/bridgelabzdatabase";
 	private String username = "root";
-	private String password = "Harshi@1";
+	private String password = "Password";
 	private String driverName="com.mysql.jdbc.Driver";
 	
 	public String getDriverName() {
