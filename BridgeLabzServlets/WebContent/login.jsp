@@ -8,7 +8,7 @@
 </head>
 <body bgcolor="#523D5B">
 	<h2>BridgeLabz-login</h2>
-	<form action="LoginRegister" method="post">
+	<form action="Login" method="post">
 <h3>${message}</h3>
 		<h3>${successmessage}</h3> 
 		UserID <input type="text" name="userID"><br> Password<input
