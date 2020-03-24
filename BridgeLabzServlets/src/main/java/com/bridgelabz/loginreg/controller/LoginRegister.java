@@ -12,7 +12,7 @@ import com.bridgelabz.loginreg.serviceprovider.CustomerDaoImpl;
 public class LoginRegisterController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
-    public LoginRegister() {
+    public LoginRegisterController () {
         super();
     }
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
