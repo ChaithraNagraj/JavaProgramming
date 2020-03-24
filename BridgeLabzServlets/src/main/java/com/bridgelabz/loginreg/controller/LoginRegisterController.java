@@ -6,7 +6,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
-
 import com.bridgelabz.loginreg.model.Customer;
 import com.bridgelabz.loginreg.repository.CustomerDao;
 import com.bridgelabz.loginreg.serviceprovider.CustomerDaoImpl;
