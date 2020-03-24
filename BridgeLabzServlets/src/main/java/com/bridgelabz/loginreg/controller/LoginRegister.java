@@ -9,7 +9,7 @@ import javax.servlet.http.HttpSession;
 import com.bridgelabz.loginreg.model.Customer;
 import com.bridgelabz.loginreg.repository.CustomerDao;
 import com.bridgelabz.loginreg.serviceprovider.CustomerDaoImpl;
-public class LoginRegister extends HttpServlet {
+public class LoginRegisterController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     public LoginRegister() {
