@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
-
+//insted of cretting web xml to mapp and config here  am am using annotation based config
 import com.springwebmvc.repositry.UserDao;
 import com.springwebmvc.repositry.UserDaoImpl;
 @Configuration
@@ -31,7 +31,7 @@ public class WebMvcConfig
 		ds.setDriverClassName("com.mysql.cj.jdbc.Driver");
 		ds.setUrl("jdbc:mysql://localhost:3306/bridgelabzdatabase");
 		ds.setUsername("root");
-		ds.setPassword("Harshi@1");
+		ds.setPassword("password");
 		return ds;
 	}
 	
