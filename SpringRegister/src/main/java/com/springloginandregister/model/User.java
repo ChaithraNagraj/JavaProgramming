@@ -1,5 +1,7 @@
 package com.springloginandregister.model;
-
+/***
+Register model
+**/
 public class User {
 	private String fstname;
 	private String lstname;
