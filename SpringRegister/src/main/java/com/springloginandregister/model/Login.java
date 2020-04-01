@@ -1,4 +1,6 @@
 package com.springloginandregister.model;
+//Login model
+
 
 public class Login {
 private String username;
