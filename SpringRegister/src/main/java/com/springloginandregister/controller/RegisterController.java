@@ -11,7 +11,9 @@ import org.springframework.web.servlet.ModelAndView;
 
 import com.springloginandregister.model.User;
 import com.springloginandregister.service.UserService;
-
+/***
+Registercontroller using annotation based config
+**/
 
 
 @Controller
