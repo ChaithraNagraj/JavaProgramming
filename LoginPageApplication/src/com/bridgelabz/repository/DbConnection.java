@@ -7,6 +7,7 @@ import java.sql.SQLException;
 public class DbConnection {
 	private static Connection connection = null;
 
+	
 	/**
 	 * Purpose: method for establishing connection with the database
 	 * 
