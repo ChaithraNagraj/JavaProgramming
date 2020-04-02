@@ -5,9 +5,7 @@ package com.bridgelabz.controller;
  *  		 in this class we are storing new user into database and redirecting
  *  		 user to index page
  *
- *  @author  Rishikesh Mhatre
- *  @version 1.0
- *  @since   04-10-2019
+ *  @author chaithra B N
  *
  ******************************************************************************/
 
