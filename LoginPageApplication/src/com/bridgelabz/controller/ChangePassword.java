@@ -1,9 +1,8 @@
 /******************************************************************************
  *  Purpose: Servlet which is created for changing the password in database
  *
- *  @author  Rishikesh Mhatre
- *  @version 1.0
- *  @since   09-10-2019
+ *  @author  chaithra B N
+ *
  *
  ******************************************************************************/
 
