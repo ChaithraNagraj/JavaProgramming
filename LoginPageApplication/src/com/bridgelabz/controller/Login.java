@@ -5,10 +5,7 @@ package com.bridgelabz.controller;
  *  		 database or not if exist then user will redirect to index page
  *  		 else user will stays on same page
  *
- *  @author  Rishikesh Mhatre
- *  @version 1.0
- *  @since   04-10-2019
- *
+ *  @author  chaithra B N
  ******************************************************************************/
 
 
