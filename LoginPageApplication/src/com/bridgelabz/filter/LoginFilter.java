@@ -2,10 +2,7 @@
  *  Purpose: Filter is used to check whether Login page validation is 
  *  		 proper or not
  *
- *  @author  Rishikesh Mhatre
- *  @version 1.0
- *  @since   07-10-2019
- *
+ *  @author  chaithra B N
  ******************************************************************************/
 package com.bridgelabz.filter;
 
