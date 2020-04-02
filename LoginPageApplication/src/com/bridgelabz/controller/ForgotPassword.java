@@ -2,9 +2,7 @@
  *  Purpose: Servlet which is created for sending the email for forgot password
  *  		 operation
  *
- *  @author  Rishikesh Mhatre
- *  @version 1.0
- *  @since   07-10-2019
+ *  @author  chaithra B N
  *
  ******************************************************************************/
 package com.bridgelabz.controller;
