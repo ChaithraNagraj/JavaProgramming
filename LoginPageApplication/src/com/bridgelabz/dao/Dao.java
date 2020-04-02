@@ -3,9 +3,7 @@
  *  		 a user, validating whether user is exist in the database or not
  *  		 and this class uses dao design pattern
  *
- *  @author  Rishikesh Mhatre
- *  @version 1.0
- *  @since   04-10-2019
+ *  @author  chaithra B N
  *
  ******************************************************************************/
 
