@@ -1,9 +1,7 @@
 /******************************************************************************
  *  Purpose: Filter is used to check whether user putting proper mail or not
  *
- *  @author  Rishikesh Mhatre
- *  @version 1.0
- *  @since   07-10-2019
+ *  @author  Chaithra B N
  *
  ******************************************************************************/
 
