@@ -36,8 +36,8 @@ import com.bridgelabz.dao.Dao;
 public class ForgotPassword extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	private Properties properties = null;
-	private String from = "forgotbridge70@gmail.com";
-	private String password = "8855220088";
+	private String from = "chaithrabn96@gmail.com";
+	private String password = "9739739764";
 	private String to = "";
 	private Session session = null;
 	private Dao dao = new Dao();
