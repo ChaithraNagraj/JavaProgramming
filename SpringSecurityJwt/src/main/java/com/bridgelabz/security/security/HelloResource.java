@@ -1,4 +1,4 @@
-package com.bridgelabz.security.repositry;
+package com.bridgelabz.security.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -14,11 +14,15 @@ import com.bridgelabz.security.model.AuthenticationRequest;
 import com.bridgelabz.security.model.AuthenticationResponse;
 import com.bridgelabz.security.services.MyUserDetailsService;
 import com.bridgelabz.security.util.JwtUtil;
-
+/**
+ * @RequestBody, Spring will bind the incoming HTTP request body(for the URL mentioned in 
+ * @author admin
+ *
+ */
 @RestController
 public class HelloResource {
 	@Autowired
-	private AuthenticationManager authenticationManager;
+	private AuthenticationManager authenticationManager;//member variable
 
 	@Autowired
 	private MyUserDetailsService myUserDetailsService;

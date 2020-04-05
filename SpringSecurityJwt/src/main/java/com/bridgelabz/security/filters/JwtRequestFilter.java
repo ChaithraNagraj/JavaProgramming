@@ -16,9 +16,13 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+/**
+ * creating a filter class to check with the security or to valiadate the user info
+ * @author admin, it will call once per request
+ *
+ */
 
-
-@Component
+@Component()
 public class JwtRequestFilter extends OncePerRequestFilter {
 
 	@Autowired

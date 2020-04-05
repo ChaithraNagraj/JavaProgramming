@@ -4,8 +4,8 @@ import java.io.Serializable;
 
 public class AuthenticationRequest  implements Serializable{
 
-	/**
-	 * 
+	/**Authentication request checking info provided here
+	 * its going to defined the input auth
 	 */
 	private static final long serialVersionUID=1l;
 	private String username;
