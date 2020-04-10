@@ -5,9 +5,9 @@ import com.mongodb.MongoCredential;
 import com.mongodb.client.MongoDatabase;
 
 /**
- * in this example we are creating a collection, to that we
+ * In This Class we are creating a collection, to that we
  *  are using createCllection() method is using
- * @author chaithra
+ * @author chaithra B N
  *
  */
 public class CreatingCollection {
