@@ -1,6 +1,6 @@
 package com.bridgelabz.mongodb.client.mongodatabase;
 /**
- * To get/select a collection from the database, getCollection()
+ * in this method we select a collection from the database, usring a method called getCollection()
  * 
  * @author chaithra
  *
