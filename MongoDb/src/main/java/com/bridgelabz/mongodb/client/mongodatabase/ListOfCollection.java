@@ -6,7 +6,7 @@ import com.mongodb.MongoCredential;
  * To list all the collections in a database we need to use the 
  * listCollectionNames() method is used
  * 
- * @author chaithra
+ * @author chaithra: B N
  *
  */
 public class ListOfCollection {
