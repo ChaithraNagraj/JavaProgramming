@@ -34,13 +34,13 @@ public class RetrievingAllDocuments {
 		Document document1 = new Document("title", "MongoDB")
 		.append("description", "database")
 		.append("likes", 100)
-		.append("url", "http://www.tutorialspoint.com/mongodb/")
-		.append("by", "tutorials point");
-		Document document2 = new Document("title", "RethinkDB")
+		.append("url", "http://www.bridgelabz.com/mongodb/")
+		.append("by", "employment");
+		Document document2 = new Document("title", "java")
 		.append("description", "database")
 		.append("likes", 200)
-		.append("url", "http://www.tutorialspoint.com/rethinkdb/")
-		.append("by", "tutorials point");
+		.append("url", "http://www.bridgelabz.com/java/")
+		.append("by", "employment");
 		List<Document> list = new ArrayList<Document>();
 		list.add(document1);
 		list.add(document2);
