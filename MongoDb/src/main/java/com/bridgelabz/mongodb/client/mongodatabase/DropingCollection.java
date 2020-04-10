@@ -9,7 +9,7 @@ import com.mongodb.MongoCredential;
 /**
  * To drop a collection from a database  we need to use
  * drop() method 
- * @author admin
+ * @author chaithra B N
  *
  */
 public class DropingCollection {
