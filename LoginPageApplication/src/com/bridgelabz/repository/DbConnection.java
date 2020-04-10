@@ -24,7 +24,7 @@ public class DbConnection {
 
 		Class.forName("com.mysql.jdbc.Driver");
 		connection = DriverManager.getConnection(
-				"jdbc:mysql://localhost:3306/clgdb?verifyServerCertificate=false&useSSL=true", "root", "root");
+				"jdbc:mysql://localhost:3306/bridgelabzdatabase", "root", "Harshi@1");
 
 		return connection;
 	}
