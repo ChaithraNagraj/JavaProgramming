@@ -6,7 +6,12 @@ import org.bson.Document;
 import com.mongodb.MongoClient;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
-
+/***
+*In this class our main intention to in sert the document to our collection
+* using insertOne() method
+*@author:chaithra B N
+*
+***/
 public class InsertingDocument {
 	public static void main( String args[] ) {
 		
@@ -27,8 +32,8 @@ public class InsertingDocument {
 		Document document = new Document("title", "MongoDB")
 		.append("description", "database")
 		.append("likes", 100)
-		.append("url", "http://www.tutorialspoint.com/mongodb/")
-		.append("by", "tutorials point");
+		.append("url", "http://www.bridgelabz.com/mongodb/")
+		.append("by", "emplyomentProvider");
 		
 		//Inserting document into the collection
 		collection.insertOne(document);
