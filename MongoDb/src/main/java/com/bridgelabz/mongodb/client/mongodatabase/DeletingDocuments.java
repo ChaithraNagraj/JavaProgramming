@@ -10,7 +10,7 @@ import com.mongodb.MongoCredential;
 /**
  * TO delete the document from  the collection , we need to use
  * the method called deleteone()
- * @author chaithra
+ * @author chaithra B N
  *
  */
 public class DeletingDocuments {
