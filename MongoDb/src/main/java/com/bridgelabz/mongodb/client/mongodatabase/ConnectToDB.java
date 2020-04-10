@@ -1,7 +1,8 @@
 package com.bridgelabz.mongodb.client.mongodatabase;
 import com.mongodb.client.MongoDatabase; 
 /**
- * connecting to mongo data base
+ *This class is created to conmnect to mongoDb client
+ *@author:chaithra B N
  */
 import com.mongodb.MongoClient; 
 import com.mongodb.MongoCredential;
