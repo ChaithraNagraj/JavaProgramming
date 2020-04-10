@@ -10,7 +10,8 @@ import com.mongodb.MongoClient;
 import com.mongodb.MongoCredential;  
 /**
  * To update a document from the collection. updateOne() method is used 
- * @author admin
+ * 
+ * @author chaithra B N 
  *
  */
 public class UpdatingDocuments {
